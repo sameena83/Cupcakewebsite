@@ -1,0 +1,38 @@
+.contact-list, .push {
+    height: 80px;
+    padding-left: 15px;
+    background-color:rgb(85, 82, 83);
+    
+  }
+
+  .contact-list a {
+    display: inline-block;
+    /*box-sizing: border-box;*/
+    margin-bottom: var(--space-small);
+    /*padding: var(--space-smaller) var(--space-smaller);*/
+    /*background-color: rgb(105, 29, 64);
+    color:rgb(60, 60, 92);
+    /*border: solid var(--space-smaller) rgb(49, 45, 45);*/
+  }
+  
+
+    .contact-list .fa-facebook{
+    
+      background: #3B5998;
+      color: rgb(196, 173, 173);
+    }
+
+    
+
+  
+  
+  .contact-list i {
+    margin-right: var(--space-smaller);
+  }
+  
+  .contact-list a:hover {
+    text-decoration: none;
+    background-color: rgb(22, 19, 19);
+    color: rgb(163, 138, 138);
+    /*border: solid var(--space-smaller) rgb(158, 102, 102);*/
+  }

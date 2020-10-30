@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne+Tactile&family=Turret+Road:wght@700&display=swap');
+
+
+
+.adv .title{
+    margin-top: 200px;
+    font-size: xx-large;
+    font-family: "Turret Road";
+    font-weight:100px;
+    float: inline-end;
+    
+    line-height: 50px;
+    text-align:left;
+    background-color:rgb(161, 134, 99);
+}
